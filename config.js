@@ -2,8 +2,8 @@
 
 
 require("./all/module")
-global.owner = "2349121056093" 
-global.namaCreator = "📺|テレビ" 
+global.owner = "923440511448" 
+global.namaCreator = "ᏃᎾᏒᎪᎥb ᏦᎪshmᎥᏒᎥ" 
 global.autoJoin = false 
 global.antilink = false 
 global.versisc = '6.0' 
